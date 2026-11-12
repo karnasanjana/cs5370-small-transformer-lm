@@ -1,0 +1,80 @@
+fact | seen wording | unseen wording
+location | OK | FAIL
+    unseen prompt: if you are looking for the loan desk , go to hollis library and walk to
+    model output:  borrow a laptop. the loan desk operates
+    expected:      room 114
+weekday_hours | OK | OK
+saturday_hours | OK | OK
+sunday | OK | FAIL
+    unseen prompt: if you come on a sunday , the desk will be
+    model output:  wiped after the return. the desk manages
+    expected:      closed
+manager | OK | OK
+technician | OK | OK
+loan_period | OK | FAIL
+    unseen prompt: when you borrow a laptop , you can keep it for
+    model output:  the whole semester must get approval from the
+    expected:      14 days
+renewal | OK | OK
+late_fee | OK | OK
+max_late_fee | OK | FAIL
+    unseen prompt: even if a laptop is very late , the late fees will not go above
+    model output:  in ridgedrive. the desk marks a laptop
+    expected:      $75
+replacement_cost | OK | FAIL
+    unseen prompt: if you lose your loan laptop , you will have to pay
+    model output:  a laptop.
+    expected:      $900
+charger_cost | OK | FAIL
+    unseen prompt: if you lose the charger , you will have to pay
+    model output:  a staff member in person. please remember
+    expected:      $40
+student_id | OK | FAIL
+    unseen prompt: when you pick up your laptop , remember to bring your
+    model output:  classes.
+    expected:      ridge card
+limit | OK | FAIL
+    unseen prompt: at any given time , a student is allowed to have just
+    model output:  so everyone knows, the desk accepts returns
+    expected:      one laptop
+model | OK | FAIL
+    unseen prompt: the laptop you borrow from the desk will be a
+    model output:  valid ridge card. the desk marks a
+    expected:      falcon 14
+fleet_size | OK | FAIL
+    unseen prompt: altogether , the number of laptops in the program is
+    model output:  a falcon 14. the desk does not
+    expected:      120 laptops
+portal | OK | FAIL
+    unseen prompt: if you want to reserve a laptop , you need to use the portal called
+    model output:  the ridge card. the desk does not
+    expected:      loanport
+hold_time | OK | OK
+damage_report | OK | OK
+extension | OK | OK
+wipe | OK | OK
+storage | OK | FAIL
+    unseen prompt: if you want to keep your files , you should save them to
+    model output:  know about laptop loans.
+    expected:      ridgedrive
+semester_loan | OK | OK
+accessories | OK | FAIL
+    unseen prompt: when you borrow a laptop , you will also get
+    model output:  an overdue laptop becomes a lost laptop after
+    expected:      a charger and a sleeve
+declared_lost | OK | FAIL
+    unseen prompt: if you do not return your laptop , it will be declared lost after
+    model output:  the student at any time. the desk
+    expected:      30 days
+reminder | OK | FAIL
+    unseen prompt: you will get a reminder email from us
+    model output:  a laptop. please remember that the desk
+    expected:      2 days before
+start_year | OK | FAIL
+    unseen prompt: students have been able to borrow laptops from the desk since the year
+    model output:  .
+    expected:      2019
+return_method | OK | FAIL
+    unseen prompt: when your loan ends , you need to bring the laptop back to the desk
+    model output:  within 48 hours. the desk does not
+    expected:      in person

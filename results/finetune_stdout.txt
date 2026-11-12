@@ -1,0 +1,70 @@
+fine-tuning examples: 202 | validation examples: 22
+answering the evaluation questions with the pretrained model...
+epoch  1 | train loss 4.0136 | val loss 2.4227
+epoch  2 | train loss 2.2127 | val loss 1.8015
+epoch  3 | train loss 1.6796 | val loss 1.5313
+epoch  4 | train loss 1.4205 | val loss 1.3919
+epoch  5 | train loss 1.2718 | val loss 1.2806
+epoch  6 | train loss 1.1550 | val loss 1.1995
+epoch  7 | train loss 1.0495 | val loss 1.1460
+epoch  8 | train loss 0.9799 | val loss 1.0725
+epoch  9 | train loss 0.9106 | val loss 1.0162
+epoch 10 | train loss 0.8607 | val loss 0.9660
+epoch 11 | train loss 0.8002 | val loss 0.9390
+epoch 12 | train loss 0.7556 | val loss 0.8927
+epoch 13 | train loss 0.7097 | val loss 0.8761
+epoch 14 | train loss 0.6841 | val loss 0.8250
+epoch 15 | train loss 0.6626 | val loss 0.8034
+epoch 16 | train loss 0.6381 | val loss 0.7877
+epoch 17 | train loss 0.6046 | val loss 0.7593
+epoch 18 | train loss 0.5776 | val loss 0.7271
+epoch 19 | train loss 0.5558 | val loss 0.7157
+epoch 20 | train loss 0.5326 | val loss 0.7165
+epoch 21 | train loss 0.5027 | val loss 0.7010
+epoch 22 | train loss 0.4993 | val loss 0.6976
+epoch 23 | train loss 0.4867 | val loss 0.6737
+epoch 24 | train loss 0.4794 | val loss 0.6872
+epoch 25 | train loss 0.4504 | val loss 0.6843
+epoch 26 | train loss 0.4505 | val loss 0.6531
+epoch 27 | train loss 0.4364 | val loss 0.6471
+epoch 28 | train loss 0.4278 | val loss 0.6672
+epoch 29 | train loss 0.4158 | val loss 0.6415
+epoch 30 | train loss 0.4146 | val loss 0.6445
+epoch 31 | train loss 0.4052 | val loss 0.6429
+epoch 32 | train loss 0.3972 | val loss 0.6511
+epoch 33 | train loss 0.3861 | val loss 0.6400
+epoch 34 | train loss 0.3760 | val loss 0.6519
+epoch 35 | train loss 0.3810 | val loss 0.6602
+epoch 36 | train loss 0.3702 | val loss 0.6688
+epoch 37 | train loss 0.3656 | val loss 0.6560
+epoch 38 | train loss 0.3569 | val loss 0.6516
+epoch 39 | train loss 0.3548 | val loss 0.6419
+epoch 40 | train loss 0.3496 | val loss 0.6540
+epoch 41 | train loss 0.3510 | val loss 0.6476
+epoch 42 | train loss 0.3466 | val loss 0.6451
+epoch 43 | train loss 0.3427 | val loss 0.6665
+epoch 44 | train loss 0.3457 | val loss 0.6679
+epoch 45 | train loss 0.3423 | val loss 0.6567
+epoch 46 | train loss 0.3360 | val loss 0.6579
+epoch 47 | train loss 0.3359 | val loss 0.6506
+epoch 48 | train loss 0.3328 | val loss 0.6515
+epoch 49 | train loss 0.3366 | val loss 0.6589
+epoch 50 | train loss 0.3284 | val loss 0.6296
+epoch 51 | train loss 0.3306 | val loss 0.6413
+epoch 52 | train loss 0.3161 | val loss 0.6355
+epoch 53 | train loss 0.3238 | val loss 0.6389
+epoch 54 | train loss 0.3196 | val loss 0.6499
+epoch 55 | train loss 0.3168 | val loss 0.6547
+epoch 56 | train loss 0.3156 | val loss 0.6541
+epoch 57 | train loss 0.3110 | val loss 0.6490
+epoch 58 | train loss 0.3144 | val loss 0.6252
+epoch 59 | train loss 0.3071 | val loss 0.6340
+epoch 60 | train loss 0.3032 | val loss 0.6549
+saved model/finetuned.pt
+answering the evaluation questions with the fine-tuned model...
+
+pretrained model: 2 / 56 correct
+fine-tuned model: 25 / 56 correct
+fine-tuned model on the question wordings used in fine-tuning: 110 / 112 correct
+
+details saved in results/qa_comparison.txt

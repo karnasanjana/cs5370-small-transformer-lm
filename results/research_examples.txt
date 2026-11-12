@@ -1,0 +1,15 @@
+prompt: the late fee for an overdue laptop is
+
+step    0: ask sundays only always everyone files go home allows every stay costs reserved 40 if
+step  250: $75. the loan desk is $40. the loan desk is $
+step  500: $5 per day. the loan desk is $5 per day. the
+step  750: $5 per day. the desk is open from 8 am to 6 pm
+step 1000: $5 per day. the loan desk is open from 8 am to 6
+step 1250: $5 per day. the desk will loan only one laptop to each student
+step 1500: $5 per day. the desk cannot give a semester loan without approval from
+step 1750: $5 per day. the loan program has a fleet of 120 laptops.
+step 2000: $5 per day. the desk cannot give a semester loan without approval from
+step 2250: $5 per day. the desk cannot give a semester loan without approval from
+step 2500: $5 per day. the desk cannot give a semester loan without approval from
+step 2750: $5 per day. the desk cannot give a semester loan without approval from
+step 3000: $5 per day. the desk cannot give a semester loan without approval from

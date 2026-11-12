@@ -1,0 +1,282 @@
+[
+ {
+  "fact": "location",
+  "question": "In which room of Hollis Library is the loan desk?",
+  "key": "room 114"
+ },
+ {
+  "fact": "location",
+  "question": "Where should students go to borrow a laptop?",
+  "key": "room 114"
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "When can I visit the loan desk on a weekday?",
+  "key": "8 am to 6 pm"
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What hours is the desk open from Monday to Friday?",
+  "key": "8 am to 6 pm"
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "What hours is the desk open on a Saturday?",
+  "key": "10 am to 2 pm"
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "When can I visit the loan desk on Saturdays?",
+  "key": "10 am to 2 pm"
+ },
+ {
+  "fact": "sunday",
+  "question": "Is the desk open on a Sunday?",
+  "key": "closed"
+ },
+ {
+  "fact": "sunday",
+  "question": "Can I visit the loan desk on Sundays?",
+  "key": "closed"
+ },
+ {
+  "fact": "manager",
+  "question": "Who runs the loan program?",
+  "key": "dana whitfield"
+ },
+ {
+  "fact": "manager",
+  "question": "Who is the loan desk manager?",
+  "key": "dana whitfield"
+ },
+ {
+  "fact": "technician",
+  "question": "Who repairs broken laptops?",
+  "key": "marcus oyelaran"
+ },
+ {
+  "fact": "technician",
+  "question": "Who is the technician at the loan desk?",
+  "key": "marcus oyelaran"
+ },
+ {
+  "fact": "loan_period",
+  "question": "How long can students keep a borrowed laptop?",
+  "key": "14 days"
+ },
+ {
+  "fact": "loan_period",
+  "question": "What is the length of a standard loan?",
+  "key": "14 days"
+ },
+ {
+  "fact": "renewal",
+  "question": "How long does a renewal extend the loan?",
+  "key": "7 days"
+ },
+ {
+  "fact": "renewal",
+  "question": "What is the renewal period?",
+  "key": "7 days"
+ },
+ {
+  "fact": "late_fee",
+  "question": "How much is charged for each overdue day?",
+  "key": "$5"
+ },
+ {
+  "fact": "late_fee",
+  "question": "What is the fee for a late return?",
+  "key": "$5"
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the highest late fee for one loan?",
+  "key": "$75"
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "How much is the cap on late fees?",
+  "key": "$75"
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "How much is charged for a lost laptop?",
+  "key": "$900"
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "What happens if I lose my loan laptop?",
+  "key": "$900"
+ },
+ {
+  "fact": "charger_cost",
+  "question": "How much is charged for a lost charger?",
+  "key": "$40"
+ },
+ {
+  "fact": "charger_cost",
+  "question": "What happens if the charger is not returned?",
+  "key": "$40"
+ },
+ {
+  "fact": "student_id",
+  "question": "What should I bring when I pick up a laptop?",
+  "key": "ridge card"
+ },
+ {
+  "fact": "student_id",
+  "question": "Which card do students need to borrow a laptop?",
+  "key": "ridge card"
+ },
+ {
+  "fact": "limit",
+  "question": "How many laptops is a student allowed to have?",
+  "key": "one laptop"
+ },
+ {
+  "fact": "limit",
+  "question": "What is the limit on laptops per student?",
+  "key": "one laptop"
+ },
+ {
+  "fact": "model",
+  "question": "Which laptop model is used by the loan desk?",
+  "key": "falcon 14"
+ },
+ {
+  "fact": "model",
+  "question": "What laptop do students receive?",
+  "key": "falcon 14"
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops does the desk own in total?",
+  "key": "120 laptops"
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops are available in the program?",
+  "key": "120 laptops"
+ },
+ {
+  "fact": "portal",
+  "question": "What is the name of the online reservation system?",
+  "key": "loanport"
+ },
+ {
+  "fact": "portal",
+  "question": "Where can I reserve a laptop online?",
+  "key": "loanport"
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long does the desk keep a reserved laptop?",
+  "key": "24 hours"
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long are reservations held?",
+  "key": "24 hours"
+ },
+ {
+  "fact": "damage_report",
+  "question": "How quickly should a damaged laptop be reported?",
+  "key": "48 hours"
+ },
+ {
+  "fact": "damage_report",
+  "question": "When are damage reports due?",
+  "key": "48 hours"
+ },
+ {
+  "fact": "extension",
+  "question": "Which extension should I call for the loan desk?",
+  "key": "4410"
+ },
+ {
+  "fact": "extension",
+  "question": "What is the phone number of the desk?",
+  "key": "4410"
+ },
+ {
+  "fact": "wipe",
+  "question": "What happens to the data on a returned laptop?",
+  "key": "wiped"
+ },
+ {
+  "fact": "wipe",
+  "question": "Do my files stay on the laptop after I return it?",
+  "key": "wiped"
+ },
+ {
+  "fact": "storage",
+  "question": "Where can I store my files to keep them?",
+  "key": "ridgedrive"
+ },
+ {
+  "fact": "storage",
+  "question": "What is the name of the university cloud storage?",
+  "key": "ridgedrive"
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Who must approve a loan for the whole semester?",
+  "key": "financial aid office"
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Which office reviews semester loan requests?",
+  "key": "financial aid office"
+ },
+ {
+  "fact": "accessories",
+  "question": "Which accessories are included with a loan?",
+  "key": "a charger and a sleeve"
+ },
+ {
+  "fact": "accessories",
+  "question": "What comes with the laptop?",
+  "key": "a charger and a sleeve"
+ },
+ {
+  "fact": "declared_lost",
+  "question": "When does an overdue laptop become a lost laptop?",
+  "key": "30 days"
+ },
+ {
+  "fact": "declared_lost",
+  "question": "After how long is a laptop considered lost?",
+  "key": "30 days"
+ },
+ {
+  "fact": "reminder",
+  "question": "When does the reminder email go out?",
+  "key": "2 days before"
+ },
+ {
+  "fact": "reminder",
+  "question": "When will I get a reminder about the due date?",
+  "key": "2 days before"
+ },
+ {
+  "fact": "start_year",
+  "question": "In which year did the program first open?",
+  "key": "2019"
+ },
+ {
+  "fact": "start_year",
+  "question": "When was the Laptop Loan Desk created?",
+  "key": "2019"
+ },
+ {
+  "fact": "return_method",
+  "question": "How should a laptop be returned to the desk?",
+  "key": "in person"
+ },
+ {
+  "fact": "return_method",
+  "question": "Is there a drop box for returns?",
+  "key": "in person"
+ }
+]

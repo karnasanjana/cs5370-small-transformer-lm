@@ -1,0 +1,17 @@
+train tokens: 392149 | val tokens: 25026
+model parameters: 931811
+step    0 | train loss 6.3536 | val loss 6.3613 | 0.1 min
+step  250 | train loss 2.2981 | val loss 2.5511 | 2.3 min
+step  500 | train loss 1.8280 | val loss 2.1894 | 4.6 min
+step  750 | train loss 1.5384 | val loss 1.9575 | 7.1 min
+step 1000 | train loss 0.8787 | val loss 1.3752 | 9.3 min
+step 1250 | train loss 0.6278 | val loss 1.2332 | 11.4 min
+step 1500 | train loss 0.5567 | val loss 1.2169 | 13.8 min
+step 1750 | train loss 0.5389 | val loss 1.2080 | 16.1 min
+step 2000 | train loss 0.5269 | val loss 1.2352 | 18.3 min
+step 2250 | train loss 0.5136 | val loss 1.1919 | 20.7 min
+step 2500 | train loss 0.5091 | val loss 1.2258 | 22.8 min
+step 2750 | train loss 0.5075 | val loss 1.2460 | 25.0 min
+step 3000 | train loss 0.5007 | val loss 1.2594 | 27.3 min
+saved model/pretrained.pt
+saved results/pretrain_loss.png

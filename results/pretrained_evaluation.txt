@@ -1,0 +1,103 @@
+=== 1. Held-out test set ===
+test loss: 1.2619
+test perplexity: 3.53
+
+=== 2. Fact completion with seen wording (greedy decoding) ===
+[OK  ] the laptop loan desk is located in --> room 114 of hollis library. the desk   (expected: room 114)
+[OK  ] on weekdays the loan desk is open from --> 8 am to 6 pm. the desk   (expected: 8 am to 6 pm)
+[OK  ] on saturdays the loan desk is open from --> 10 am to 2 pm. the desk   (expected: 10 am to 2 pm)
+[OK  ] on sundays the loan desk is --> closed. the desk does not open on   (expected: closed)
+[OK  ] the manager of the laptop loan desk is --> dana whitfield. the loan desk operates out   (expected: dana whitfield)
+[OK  ] all laptop repairs are handled by the repair technician , --> marcus oyelaran. the desk cannot give a   (expected: marcus oyelaran)
+[OK  ] the standard loan period for a laptop is --> 14 days. the loan desk operates out   (expected: 14 days)
+[OK  ] a loan can be renewed one time for an extra --> 7 days. the desk marks a laptop   (expected: 7 days)
+[OK  ] the late fee for an overdue laptop is --> $5 per day. the desk cannot   (expected: $5)
+[OK  ] the maximum late fee for one loan is --> $75. the loan desk operates out   (expected: $75)
+[OK  ] the replacement cost for a lost laptop is --> $900. the desk does not open   (expected: $900)
+[OK  ] the replacement cost for a lost charger is --> $40. the desk does not open   (expected: $40)
+[OK  ] to borrow a laptop , a student must show a valid --> ridge card. the desk marks a laptop   (expected: ridge card)
+[OK  ] each student may borrow only --> one laptop at a time. the desk   (expected: one laptop)
+[OK  ] all loan laptops are the same model , the --> falcon 14. the desk does not open   (expected: falcon 14)
+[OK  ] the loan program has a fleet of --> 120 laptops. the desk serves students from   (expected: 120 laptops)
+[OK  ] laptops are reserved online through the --> loanport portal. the desk does not open   (expected: loanport)
+[OK  ] a reserved laptop is held at the desk for --> 24 hours. the loan desk can be   (expected: 24 hours)
+[OK  ] any damage to a laptop must be reported within --> 48 hours. the loan desk can be   (expected: 48 hours)
+[OK  ] the loan desk can be reached by phone at extension --> 4410. the desk does not open on   (expected: 4410)
+[OK  ] after every return , the laptop is completely --> wiped. the desk does not open on   (expected: wiped)
+[OK  ] students should save their files to --> ridgedrive. the desk does not open on   (expected: ridgedrive)
+[OK  ] a semester loan requires approval from the --> financial aid office. the desk does not   (expected: financial aid office)
+[OK  ] every loan includes --> a charger and a sleeve. the desk   (expected: a charger and a sleeve)
+[OK  ] a laptop is declared lost when it is overdue by --> 30 days. the desk cannot give a   (expected: 30 days)
+[OK  ] a reminder email is sent to the student --> 2 days before the due date. the   (expected: 2 days before)
+[OK  ] the laptop loan program was started in --> 2019. the review found that the desk   (expected: 2019)
+[OK  ] laptops must be returned to the desk --> in person. the desk does not open   (expected: in person)
+correct: 28 / 28
+
+=== 2. Fact completion with unseen wording (greedy decoding) ===
+[FAIL] if you are looking for the loan desk , go to hollis library and walk to --> borrow a laptop. the loan desk operates   (expected: room 114)
+[OK  ] during the week , students can borrow laptops at the desk from --> 8 am to 6 pm. the desk   (expected: 8 am to 6 pm)
+[OK  ] if you come on a saturday , the desk will be open from --> 10 am to 2 pm. the desk   (expected: 10 am to 2 pm)
+[FAIL] if you come on a sunday , the desk will be --> wiped after the return. the desk manages   (expected: closed)
+[OK  ] the loan desk staff report to their manager , --> dana whitfield. the review found that the   (expected: dana whitfield)
+[OK  ] when a laptop breaks , it goes to the repair technician , --> marcus oyelaran. the desk does not open   (expected: marcus oyelaran)
+[FAIL] when you borrow a laptop , you can keep it for --> the whole semester must get approval from the   (expected: 14 days)
+[OK  ] if you need more time , you can renew the loan once for another --> 7 days.   (expected: 7 days)
+[OK  ] if you return your laptop late , you will be charged --> at a rate of $5 per day   (expected: $5)
+[FAIL] even if a laptop is very late , the late fees will not go above --> in ridgedrive. the desk marks a laptop   (expected: $75)
+[FAIL] if you lose your loan laptop , you will have to pay --> a laptop.   (expected: $900)
+[FAIL] if you lose the charger , you will have to pay --> a staff member in person. please remember   (expected: $40)
+[FAIL] when you pick up your laptop , remember to bring your --> classes.   (expected: ridge card)
+[FAIL] at any given time , a student is allowed to have just --> so everyone knows, the desk accepts returns   (expected: one laptop)
+[FAIL] the laptop you borrow from the desk will be a --> valid ridge card. the desk marks a   (expected: falcon 14)
+[FAIL] altogether , the number of laptops in the program is --> a falcon 14. the desk does not   (expected: 120 laptops)
+[FAIL] if you want to reserve a laptop , you need to use the portal called --> the ridge card. the desk does not   (expected: loanport)
+[OK  ] after you reserve a laptop , the desk will hold it for --> 24 hours. please remember that the desk   (expected: 24 hours)
+[OK  ] if you damage your laptop , you need to report it within --> 48 hours.   (expected: 48 hours)
+[OK  ] if you need to speak to the desk , you can call extension --> 4410.   (expected: 4410)
+[OK  ] once you return your laptop , everything on it gets --> of the desk is wiped.   (expected: wiped)
+[FAIL] if you want to keep your files , you should save them to --> know about laptop loans.   (expected: ridgedrive)
+[OK  ] if you need a laptop for the entire semester , you must first be approved by the --> financial aid office.   (expected: financial aid office)
+[FAIL] when you borrow a laptop , you will also get --> an overdue laptop becomes a lost laptop after   (expected: a charger and a sleeve)
+[FAIL] if you do not return your laptop , it will be declared lost after --> the student at any time. the desk   (expected: 30 days)
+[FAIL] you will get a reminder email from us --> a laptop. please remember that the desk   (expected: 2 days before)
+[FAIL] students have been able to borrow laptops from the desk since the year --> .   (expected: 2019)
+[FAIL] when your loan ends , you need to bring the laptop back to the desk --> within 48 hours. the desk does not   (expected: in person)
+correct: 11 / 28
+
+=== 3. Generated text ===
+prompt: Notice to all students.   (temperature 0)
+output: keep in mind that the desk keeps a reserved laptop for 24 hours. we are happy to help you.
+
+prompt: Notice to all students.   (temperature 0.8)
+output: we would like to remind you that the loan desk operates out of room 114, hollis library. we would like to remind you that the cloud storage service of the university is called ridgedrive. thank you for using the laptop loan desk.
+
+prompt: Hello team.   (temperature 0)
+output: please remember that the desk stays closed every sunday. please remember that the desk stays closed every sunday. please remember that the desk stays closed every sunday. please remember that the desk stays closed every sunday. please remember that the desk stays closed every sunday. please ask me if anything is not clear.
+
+prompt: Hello team.   (temperature 0.8)
+output: please remember that the replacement cost for a lost laptop is $900. please ask me if anything is not clear.
+
+prompt: Monthly report of the Laptop Loan Desk.   (temperature 0)
+output: the review found that the desk keeps a reserved laptop for 24 hours. the review found that the desk keeps a reserved laptop for 24 hours. the review found that the desk keeps a reserved laptop for 24 hours. the review found that the desk keeps a reserved laptop for 24 hours. the review found that
+
+prompt: Monthly report of the Laptop Loan Desk.   (temperature 0.8)
+output: it was noted that students will receive a falcon 14 laptop. the loan desk opens on saturdays, but only from 10 am to 2 pm. every damaged laptop is inspected by the technician, marcus oyelaran. the review found that the pickup window for a reservation is 24 hours. no changes to the program are
+
+prompt: The late fee   (temperature 0)
+output: for an overdue laptop is $5 per day. the desk cannot give a semester loan without approval from the financial aid office. the desk marks a laptop as lost when it is overdue by 30 days. the loan desk can be reached by phone at extension 4410. the desk does not open on sundays and
+
+prompt: The late fee   (temperature 0.8)
+output: for an overdue laptop is $5 per day. the desk cannot give a semester loan without approval from the financial aid office. for the record, the loan desk is managed by dana whitfield. every damaged laptop is inspected by the technician, marcus oyelaran. end of report.
+
+prompt: Students who lose   (temperature 0)
+output: the charger must pay $40. the desk will loan only one laptop to each student. the loan desk operates out of room 114, hollis library. the desk manages a total of 120 laptops. the loan desk operates out of room 114, hollis library. the desk serves students from 8 am to 6
+
+prompt: Students who lose   (temperature 0.8)
+output: the charger must pay $40. our whole fleet is made up of falcon 14 laptops. we are happy to help you.
+
+prompt: The library is   (temperature 0)
+output: overdue by 30 days. the desk does not open on sundays and remains closed all day. the loan desk can be reached by phone at extension 4410. the desk manages a total of 120 laptops. the desk serves students from 8 am to 6 pm on weekdays. the desk does not open on sundays and
+
+prompt: The library is   (temperature 0.8)
+output: billed for a lost laptop when the laptop is overdue by 30 days. one more thing, the laptop loan desk is located in room 114 of hollis library. enjoy your laptop.
+

@@ -1,0 +1,170 @@
+[
+ {
+  "fact": "location",
+  "key": "room 114",
+  "seen": "the laptop loan desk is located in",
+  "unseen": "if you are looking for the loan desk , go to hollis library and walk to"
+ },
+ {
+  "fact": "weekday_hours",
+  "key": "8 am to 6 pm",
+  "seen": "on weekdays the loan desk is open from",
+  "unseen": "during the week , students can borrow laptops at the desk from"
+ },
+ {
+  "fact": "saturday_hours",
+  "key": "10 am to 2 pm",
+  "seen": "on saturdays the loan desk is open from",
+  "unseen": "if you come on a saturday , the desk will be open from"
+ },
+ {
+  "fact": "sunday",
+  "key": "closed",
+  "seen": "on sundays the loan desk is",
+  "unseen": "if you come on a sunday , the desk will be"
+ },
+ {
+  "fact": "manager",
+  "key": "dana whitfield",
+  "seen": "the manager of the laptop loan desk is",
+  "unseen": "the loan desk staff report to their manager ,"
+ },
+ {
+  "fact": "technician",
+  "key": "marcus oyelaran",
+  "seen": "all laptop repairs are handled by the repair technician ,",
+  "unseen": "when a laptop breaks , it goes to the repair technician ,"
+ },
+ {
+  "fact": "loan_period",
+  "key": "14 days",
+  "seen": "the standard loan period for a laptop is",
+  "unseen": "when you borrow a laptop , you can keep it for"
+ },
+ {
+  "fact": "renewal",
+  "key": "7 days",
+  "seen": "a loan can be renewed one time for an extra",
+  "unseen": "if you need more time , you can renew the loan once for another"
+ },
+ {
+  "fact": "late_fee",
+  "key": "$5",
+  "seen": "the late fee for an overdue laptop is",
+  "unseen": "if you return your laptop late , you will be charged"
+ },
+ {
+  "fact": "max_late_fee",
+  "key": "$75",
+  "seen": "the maximum late fee for one loan is",
+  "unseen": "even if a laptop is very late , the late fees will not go above"
+ },
+ {
+  "fact": "replacement_cost",
+  "key": "$900",
+  "seen": "the replacement cost for a lost laptop is",
+  "unseen": "if you lose your loan laptop , you will have to pay"
+ },
+ {
+  "fact": "charger_cost",
+  "key": "$40",
+  "seen": "the replacement cost for a lost charger is",
+  "unseen": "if you lose the charger , you will have to pay"
+ },
+ {
+  "fact": "student_id",
+  "key": "ridge card",
+  "seen": "to borrow a laptop , a student must show a valid",
+  "unseen": "when you pick up your laptop , remember to bring your"
+ },
+ {
+  "fact": "limit",
+  "key": "one laptop",
+  "seen": "each student may borrow only",
+  "unseen": "at any given time , a student is allowed to have just"
+ },
+ {
+  "fact": "model",
+  "key": "falcon 14",
+  "seen": "all loan laptops are the same model , the",
+  "unseen": "the laptop you borrow from the desk will be a"
+ },
+ {
+  "fact": "fleet_size",
+  "key": "120 laptops",
+  "seen": "the loan program has a fleet of",
+  "unseen": "altogether , the number of laptops in the program is"
+ },
+ {
+  "fact": "portal",
+  "key": "loanport",
+  "seen": "laptops are reserved online through the",
+  "unseen": "if you want to reserve a laptop , you need to use the portal called"
+ },
+ {
+  "fact": "hold_time",
+  "key": "24 hours",
+  "seen": "a reserved laptop is held at the desk for",
+  "unseen": "after you reserve a laptop , the desk will hold it for"
+ },
+ {
+  "fact": "damage_report",
+  "key": "48 hours",
+  "seen": "any damage to a laptop must be reported within",
+  "unseen": "if you damage your laptop , you need to report it within"
+ },
+ {
+  "fact": "extension",
+  "key": "4410",
+  "seen": "the loan desk can be reached by phone at extension",
+  "unseen": "if you need to speak to the desk , you can call extension"
+ },
+ {
+  "fact": "wipe",
+  "key": "wiped",
+  "seen": "after every return , the laptop is completely",
+  "unseen": "once you return your laptop , everything on it gets"
+ },
+ {
+  "fact": "storage",
+  "key": "ridgedrive",
+  "seen": "students should save their files to",
+  "unseen": "if you want to keep your files , you should save them to"
+ },
+ {
+  "fact": "semester_loan",
+  "key": "financial aid office",
+  "seen": "a semester loan requires approval from the",
+  "unseen": "if you need a laptop for the entire semester , you must first be approved by the"
+ },
+ {
+  "fact": "accessories",
+  "key": "a charger and a sleeve",
+  "seen": "every loan includes",
+  "unseen": "when you borrow a laptop , you will also get"
+ },
+ {
+  "fact": "declared_lost",
+  "key": "30 days",
+  "seen": "a laptop is declared lost when it is overdue by",
+  "unseen": "if you do not return your laptop , it will be declared lost after"
+ },
+ {
+  "fact": "reminder",
+  "key": "2 days before",
+  "seen": "a reminder email is sent to the student",
+  "unseen": "you will get a reminder email from us"
+ },
+ {
+  "fact": "start_year",
+  "key": "2019",
+  "seen": "the laptop loan program was started in",
+  "unseen": "students have been able to borrow laptops from the desk since the year"
+ },
+ {
+  "fact": "return_method",
+  "key": "in person",
+  "seen": "laptops must be returned to the desk",
+  "unseen": "when your loan ends , you need to bring the laptop back to the desk"
+ }
+]

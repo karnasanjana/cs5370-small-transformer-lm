@@ -1,0 +1,283 @@
+question: In which room of Hollis Library is the loan desk?
+expected key: room 114
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan desk can be reached at extension 4410
+
+question: Where should students go to borrow a laptop?
+expected key: room 114
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [FAIL]: a laptop can be borrowed for 14 days
+
+question: When can I visit the loan desk on a weekday?
+expected key: 8 am to 6 pm
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the desk is closed every sunday
+
+question: What hours is the desk open from Monday to Friday?
+expected key: 8 am to 6 pm
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the weekday hours are 8 am to 6 pm
+
+question: What hours is the desk open on a Saturday?
+expected key: 10 am to 2 pm
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: on saturdays the loan desk is open from 10 am to 2 pm
+
+question: When can I visit the loan desk on Saturdays?
+expected key: 10 am to 2 pm
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the desk is closed every sunday
+
+question: Is the desk open on a Sunday?
+expected key: closed
+pretrained [FAIL]: the desk cannot give a semester loan without approval from the financial aid office
+fine-tuned [OK]: the desk is closed every sunday
+
+question: Can I visit the loan desk on Sundays?
+expected key: closed
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: the desk is closed every sunday
+
+question: Who runs the loan program?
+expected key: dana whitfield
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the manager of the loan desk is dana whitfield
+
+question: Who is the loan desk manager?
+expected key: dana whitfield
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the manager of the loan desk is dana whitfield
+
+question: Who repairs broken laptops?
+expected key: marcus oyelaran
+pretrained [FAIL]: the desk serves students from 8 am to 6 pm on weekdays
+fine-tuned [OK]: the repair technician is marcus oyelaran
+
+question: Who is the technician at the loan desk?
+expected key: marcus oyelaran
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the manager of the loan desk is dana whitfield
+
+question: How long can students keep a borrowed laptop?
+expected key: 14 days
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [FAIL]: one renewal is allowed, and it adds 7 days
+
+question: What is the length of a standard loan?
+expected key: 14 days
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the standard loan period is 14 days
+
+question: How long does a renewal extend the loan?
+expected key: 7 days
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: one renewal is allowed, and it adds 7 days
+
+question: What is the renewal period?
+expected key: 7 days
+pretrained [FAIL]: the loan desk operates out of room 114, hollis library
+fine-tuned [FAIL]: the late fee is $5 per day
+
+question: How much is charged for each overdue day?
+expected key: $5
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: a loan can be renewed one time for an extra 7 days
+
+question: What is the fee for a late return?
+expected key: $5
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: the late fee is $5 per day
+
+question: What is the highest late fee for one loan?
+expected key: $75
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [FAIL]: the late fee is $5 per day
+
+question: How much is the cap on late fees?
+expected key: $75
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the weekday hours are 8 am to 6 pm
+
+question: How much is charged for a lost laptop?
+expected key: $900
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the replacement cost for a lost laptop is $900
+
+question: What happens if I lose my loan laptop?
+expected key: $900
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan desk owns 120 laptops
+
+question: How much is charged for a lost charger?
+expected key: $40
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: a reserved laptop is held at the desk for 24 hours
+
+question: What happens if the charger is not returned?
+expected key: $40
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan program has a fleet of 120 laptops
+
+question: What should I bring when I pick up a laptop?
+expected key: ridge card
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: a student must show a valid ridge card to borrow a laptop
+
+question: Which card do students need to borrow a laptop?
+expected key: ridge card
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: a student must show a valid ridge card to borrow a laptop
+
+question: How many laptops is a student allowed to have?
+expected key: one laptop
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [FAIL]: a student must show a valid ridge card to borrow a laptop
+
+question: What is the limit on laptops per student?
+expected key: one laptop
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the weekday hours are 8 am to 6 pm
+
+question: Which laptop model is used by the loan desk?
+expected key: falcon 14
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan desk can be reached at extension 4410
+
+question: What laptop do students receive?
+expected key: falcon 14
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: you reserve a laptop in the loanport portal
+
+question: How many laptops does the desk own in total?
+expected key: 120 laptops
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan desk lends falcon 14 laptops
+
+question: How many laptops are available in the program?
+expected key: 120 laptops
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the loan desk owns 120 laptops
+
+question: What is the name of the online reservation system?
+expected key: loanport
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the limit is one laptop per student
+
+question: Where can I reserve a laptop online?
+expected key: loanport
+pretrained [FAIL]: the desk cannot give a semester loan without approval from the financial aid office
+fine-tuned [OK]: laptops are reserved online through the loanport portal
+
+question: How long does the desk keep a reserved laptop?
+expected key: 24 hours
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: a student must show a valid ridge card to borrow a laptop
+
+question: How long are reservations held?
+expected key: 24 hours
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: a reserved laptop is held at the desk for 24 hours
+
+question: How quickly should a damaged laptop be reported?
+expected key: 48 hours
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan desk owns 120 laptops
+
+question: When are damage reports due?
+expected key: 48 hours
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the deadline for reporting damage is 48 hours
+
+question: Which extension should I call for the loan desk?
+expected key: 4410
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: dial extension 4410
+
+question: What is the phone number of the desk?
+expected key: 4410
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the loan desk can be reached at extension 4410
+
+question: What happens to the data on a returned laptop?
+expected key: wiped
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the limit is one laptop per student
+
+question: Do my files stay on the laptop after I return it?
+expected key: wiped
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the laptop comes with a charger and a sleeve
+
+question: Where can I store my files to keep them?
+expected key: ridgedrive
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the laptop loan desk is in room 114 of hollis library
+
+question: What is the name of the university cloud storage?
+expected key: ridgedrive
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the saturday hours are 10 am to 2 pm
+
+question: Who must approve a loan for the whole semester?
+expected key: financial aid office
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: the financial aid office
+
+question: Which office reviews semester loan requests?
+expected key: financial aid office
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: semester loans must be approved by the financial aid office
+
+question: Which accessories are included with a loan?
+expected key: a charger and a sleeve
+pretrained [FAIL]: the desk cannot give a semester loan without approval from the financial aid office
+fine-tuned [FAIL]: the laptop loan desk is in room 114 of hollis library
+
+question: What comes with the laptop?
+expected key: a charger and a sleeve
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: the loan program has been running since 2019
+
+question: When does an overdue laptop become a lost laptop?
+expected key: 30 days
+pretrained [OK]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: a laptop is declared lost when it is overdue by 30 days
+
+question: After how long is a laptop considered lost?
+expected key: 30 days
+pretrained [OK]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: a laptop is declared lost when it is overdue by 30 days
+
+question: When does the reminder email go out?
+expected key: 2 days before
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [FAIL]: a laptop can be borrowed for 14 days
+
+question: When will I get a reminder about the due date?
+expected key: 2 days before
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [OK]: students receive a reminder 2 days before the laptop is due
+
+question: In which year did the program first open?
+expected key: 2019
+pretrained [FAIL]: the desk marks a laptop as lost when it is overdue by 30 days
+fine-tuned [OK]: the laptop loan program was started in 2019
+
+question: When was the Laptop Loan Desk created?
+expected key: 2019
+pretrained [FAIL]: the desk cannot give a semester loan without approval from the financial aid office
+fine-tuned [FAIL]: the laptop loan desk is in room 114 of hollis library
+
+question: How should a laptop be returned to the desk?
+expected key: in person
+pretrained [FAIL]: the desk does not open on sundays and remains closed all day
+fine-tuned [FAIL]: dial extension 4410
+
+question: Is there a drop box for returns?
+expected key: in person
+pretrained [FAIL]: the desk cannot give a semester loan without approval from the financial aid office
+fine-tuned [FAIL]: a laptop can be borrowed for 14 days
+
+pretrained model: 2 / 56 correct
+fine-tuned model: 25 / 56 correct
+fine-tuned model on the question wordings used in fine-tuning: 110 / 112 correct

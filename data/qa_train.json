@@ -1,0 +1,1122 @@
+[
+ {
+  "fact": "max_late_fee",
+  "question": "What is the late fee cap?",
+  "answer": "The maximum late fee for one loan is $75."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What are the weekday hours of the loan desk?",
+  "answer": "The weekday hours are 8 am to 6 pm."
+ },
+ {
+  "fact": "location",
+  "question": "Where is the Laptop Loan Desk located?",
+  "answer": "It is located in room 114 of Hollis Library."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should I move my files before returning a laptop?",
+  "answer": "Files should be saved to RidgeDrive."
+ },
+ {
+  "fact": "student_id",
+  "question": "What ID is required at pickup?",
+  "answer": "You need a valid Ridge Card."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "What is the fee for a lost charger?",
+  "answer": "The replacement cost for a lost charger is $40."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should students back up their work?",
+  "answer": "Files should be saved to RidgeDrive."
+ },
+ {
+  "fact": "manager",
+  "question": "Who manages the Laptop Loan Desk?",
+  "answer": "The manager of the loan desk is Dana Whitfield."
+ },
+ {
+  "fact": "location",
+  "question": "Which room is the loan desk in?",
+  "answer": "It is located in room 114 of Hollis Library."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "What is the fee for a lost laptop?",
+  "answer": "A lost laptop costs the student $900."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "How much do I pay if I lose a laptop?",
+  "answer": "The replacement cost for a lost laptop is $900."
+ },
+ {
+  "fact": "manager",
+  "question": "Who is the manager of the loan desk?",
+  "answer": "The loan desk is managed by Dana Whitfield."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "How long until an overdue laptop is treated as lost?",
+  "answer": "A laptop is declared lost when it is overdue by 30 days."
+ },
+ {
+  "fact": "start_year",
+  "question": "When did the desk begin lending laptops?",
+  "answer": "The loan program has been running since 2019."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "What is the replacement cost for a lost charger?",
+  "answer": "The replacement cost for a lost charger is $40."
+ },
+ {
+  "fact": "reminder",
+  "question": "Will I get a reminder before my laptop is due?",
+  "answer": "A reminder email is sent 2 days before the due date."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What are the weekday hours of the loan desk?",
+  "answer": "On weekdays the loan desk is open from 8 am to 6 pm."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "How much does a missing charger cost?",
+  "answer": "The replacement cost for a lost charger is $40."
+ },
+ {
+  "fact": "renewal",
+  "question": "Can I renew my loan?",
+  "answer": "One renewal is allowed, and it adds 7 days."
+ },
+ {
+  "fact": "sunday",
+  "question": "Is the loan desk open on Sundays?",
+  "answer": "No, the loan desk is closed on Sundays."
+ },
+ {
+  "fact": "renewal",
+  "question": "How many times can a loan be renewed?",
+  "answer": "A loan can be renewed one time for an extra 7 days."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should students back up their work?",
+  "answer": "Students should save their files to RidgeDrive."
+ },
+ {
+  "fact": "renewal",
+  "question": "How long is a renewal?",
+  "answer": "One renewal is allowed, and it adds 7 days."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "What is the size of the loan fleet?",
+  "answer": "The loan desk owns 120 laptops."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops does the loan desk have?",
+  "answer": "The loan desk owns 120 laptops."
+ },
+ {
+  "fact": "technician",
+  "question": "Who handles laptop repairs?",
+  "answer": "The repair technician is Marcus Oyelaran."
+ },
+ {
+  "fact": "extension",
+  "question": "How can I call the loan desk?",
+  "answer": "Dial extension 4410."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "What is the size of the loan fleet?",
+  "answer": "The loan program has a fleet of 120 laptops."
+ },
+ {
+  "fact": "late_fee",
+  "question": "What is the daily late fee?",
+  "answer": "The late fee is $5 per day."
+ },
+ {
+  "fact": "extension",
+  "question": "How can I call the loan desk?",
+  "answer": "The loan desk can be reached at extension 4410."
+ },
+ {
+  "fact": "reminder",
+  "question": "When is the reminder email sent?",
+  "answer": "A reminder email is sent 2 days before the due date."
+ },
+ {
+  "fact": "portal",
+  "question": "How do I reserve a laptop?",
+  "answer": "You reserve a laptop in the LoanPort portal."
+ },
+ {
+  "fact": "accessories",
+  "question": "What is included with every loan?",
+  "answer": "Every loan includes a charger and a sleeve."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "What is the replacement cost for a lost charger?",
+  "answer": "A lost charger costs the student $40."
+ },
+ {
+  "fact": "extension",
+  "question": "What is the phone extension of the loan desk?",
+  "answer": "The loan desk can be reached at extension 4410."
+ },
+ {
+  "fact": "model",
+  "question": "Which laptop will I receive?",
+  "answer": "The loan desk lends Falcon 14 laptops."
+ },
+ {
+  "fact": "model",
+  "question": "What laptop model does the loan desk lend?",
+  "answer": "The loan desk lends Falcon 14 laptops."
+ },
+ {
+  "fact": "damage_report",
+  "question": "How long do I have to report damage?",
+  "answer": "Damage must be reported within 48 hours."
+ },
+ {
+  "fact": "return_method",
+  "question": "How must laptops be returned?",
+  "answer": "Laptops must be returned to the desk in person."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "How much do I pay if I lose the charger?",
+  "answer": "The replacement cost for a lost charger is $40."
+ },
+ {
+  "fact": "portal",
+  "question": "Where do students make reservations?",
+  "answer": "Laptops are reserved online through the LoanPort portal."
+ },
+ {
+  "fact": "student_id",
+  "question": "What ID is required at pickup?",
+  "answer": "A student must show a valid Ridge Card to borrow a laptop."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "What is the replacement cost for a lost laptop?",
+  "answer": "A lost laptop costs the student $900."
+ },
+ {
+  "fact": "start_year",
+  "question": "In what year was the loan program launched?",
+  "answer": "The laptop loan program was started in 2019."
+ },
+ {
+  "fact": "reminder",
+  "question": "Will I get a reminder before my laptop is due?",
+  "answer": "Students receive a reminder 2 days before the laptop is due."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How long is the standard loan period?",
+  "answer": "A laptop can be borrowed for 14 days."
+ },
+ {
+  "fact": "renewal",
+  "question": "How long is a renewal?",
+  "answer": "A loan can be renewed one time for an extra 7 days."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "When is the loan desk open on Saturdays?",
+  "answer": "On Saturdays the loan desk is open from 10 am to 2 pm."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should I save my files?",
+  "answer": "Students should save their files to RidgeDrive."
+ },
+ {
+  "fact": "start_year",
+  "question": "When did the loan program start?",
+  "answer": "The loan program has been running since 2019."
+ },
+ {
+  "fact": "start_year",
+  "question": "Since when has the loan desk been serving students?",
+  "answer": "The loan program has been running since 2019."
+ },
+ {
+  "fact": "damage_report",
+  "question": "What is the deadline for reporting damage?",
+  "answer": "The deadline for reporting damage is 48 hours."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "After how many days is an overdue laptop considered lost?",
+  "answer": "A laptop is declared lost when it is overdue by 30 days."
+ },
+ {
+  "fact": "student_id",
+  "question": "What is the student ID called?",
+  "answer": "A student must show a valid Ridge Card to borrow a laptop."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "How do I get a semester loan?",
+  "answer": "A semester loan requires approval from the Financial Aid Office."
+ },
+ {
+  "fact": "loan_period",
+  "question": "When is a borrowed laptop due back?",
+  "answer": "The standard loan period is 14 days."
+ },
+ {
+  "fact": "storage",
+  "question": "What is the cloud storage service called?",
+  "answer": "Files should be saved to RidgeDrive."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops does the loan desk have?",
+  "answer": "The loan program has a fleet of 120 laptops."
+ },
+ {
+  "fact": "location",
+  "question": "Which room is the loan desk in?",
+  "answer": "The Laptop Loan Desk is in room 114 of Hollis Library."
+ },
+ {
+  "fact": "sunday",
+  "question": "Can I pick up a laptop on Sundays?",
+  "answer": "The desk is closed every Sunday."
+ },
+ {
+  "fact": "return_method",
+  "question": "How do I return a laptop?",
+  "answer": "Laptops must be returned to the desk in person."
+ },
+ {
+  "fact": "location",
+  "question": "Where can I find the loan desk?",
+  "answer": "It is located in room 114 of Hollis Library."
+ },
+ {
+  "fact": "return_method",
+  "question": "Where do I return my laptop?",
+  "answer": "All returns have to be made in person at the loan desk."
+ },
+ {
+  "fact": "portal",
+  "question": "What system is used to reserve laptops?",
+  "answer": "You reserve a laptop in the LoanPort portal."
+ },
+ {
+  "fact": "technician",
+  "question": "Who inspects damaged laptops?",
+  "answer": "Laptop repairs are handled by the technician, Marcus Oyelaran."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "What are the Saturday hours of the loan desk?",
+  "answer": "The Saturday hours are 10 am to 2 pm."
+ },
+ {
+  "fact": "technician",
+  "question": "Who inspects damaged laptops?",
+  "answer": "The repair technician is Marcus Oyelaran."
+ },
+ {
+  "fact": "late_fee",
+  "question": "What is the daily late fee?",
+  "answer": "Overdue laptops are charged $5 per day."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the most I can owe in late fees?",
+  "answer": "Late fees are capped at $75."
+ },
+ {
+  "fact": "student_id",
+  "question": "What do I need to show to borrow a laptop?",
+  "answer": "A student must show a valid Ridge Card to borrow a laptop."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "What time does the desk open on Saturdays?",
+  "answer": "The Saturday hours are 10 am to 2 pm."
+ },
+ {
+  "fact": "damage_report",
+  "question": "How soon must damage be reported?",
+  "answer": "Damage must be reported within 48 hours."
+ },
+ {
+  "fact": "wipe",
+  "question": "What happens to my files after I return a laptop?",
+  "answer": "All files on a returned laptop are wiped."
+ },
+ {
+  "fact": "damage_report",
+  "question": "What is the deadline for reporting damage?",
+  "answer": "Damage must be reported within 48 hours."
+ },
+ {
+  "fact": "sunday",
+  "question": "Can I pick up a laptop on Sundays?",
+  "answer": "No, the loan desk is closed on Sundays."
+ },
+ {
+  "fact": "start_year",
+  "question": "When did the desk begin lending laptops?",
+  "answer": "The laptop loan program was started in 2019."
+ },
+ {
+  "fact": "limit",
+  "question": "What is the loan limit per student?",
+  "answer": "Each student may borrow only one laptop at a time."
+ },
+ {
+  "fact": "reminder",
+  "question": "When do students receive a reminder?",
+  "answer": "Students receive a reminder 2 days before the laptop is due."
+ },
+ {
+  "fact": "hold_time",
+  "question": "What is the pickup window for a reservation?",
+  "answer": "A reserved laptop is held at the desk for 24 hours."
+ },
+ {
+  "fact": "limit",
+  "question": "How many laptops can I borrow at a time?",
+  "answer": "Each student may borrow only one laptop at a time."
+ },
+ {
+  "fact": "technician",
+  "question": "Who repairs the laptops?",
+  "answer": "Laptop repairs are handled by the technician, Marcus Oyelaran."
+ },
+ {
+  "fact": "limit",
+  "question": "How many laptops can I borrow at a time?",
+  "answer": "The limit is one laptop per student."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "What is the replacement cost for a lost laptop?",
+  "answer": "The replacement cost for a lost laptop is $900."
+ },
+ {
+  "fact": "sunday",
+  "question": "When is the loan desk closed?",
+  "answer": "The desk is closed every Sunday."
+ },
+ {
+  "fact": "damage_report",
+  "question": "When do I have to report a damaged laptop?",
+  "answer": "The deadline for reporting damage is 48 hours."
+ },
+ {
+  "fact": "loan_period",
+  "question": "When is a borrowed laptop due back?",
+  "answer": "A laptop can be borrowed for 14 days."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How many days does a standard loan last?",
+  "answer": "The standard loan period is 14 days."
+ },
+ {
+  "fact": "extension",
+  "question": "What is the phone extension of the loan desk?",
+  "answer": "Dial extension 4410."
+ },
+ {
+  "fact": "late_fee",
+  "question": "What is the late fee for an overdue laptop?",
+  "answer": "Overdue laptops are charged $5 per day."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "How do I get a semester loan?",
+  "answer": "Semester loans must be approved by the Financial Aid Office."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the late fee cap?",
+  "answer": "Late fees are capped at $75."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "How much does it cost to replace a lost laptop?",
+  "answer": "The replacement cost for a lost laptop is $900."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "How much does a missing charger cost?",
+  "answer": "A lost charger costs the student $40."
+ },
+ {
+  "fact": "model",
+  "question": "What laptop model does the loan desk lend?",
+  "answer": "All loan laptops are the Falcon 14 model."
+ },
+ {
+  "fact": "accessories",
+  "question": "What does the loan kit contain?",
+  "answer": "Every loan includes a charger and a sleeve."
+ },
+ {
+  "fact": "technician",
+  "question": "Who is the repair technician?",
+  "answer": "The repair technician is Marcus Oyelaran."
+ },
+ {
+  "fact": "start_year",
+  "question": "When did the loan program start?",
+  "answer": "The laptop loan program was started in 2019."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "How much does it cost to replace a lost laptop?",
+  "answer": "A lost laptop costs the student $900."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How long can I borrow a laptop?",
+  "answer": "The standard loan period is 14 days."
+ },
+ {
+  "fact": "storage",
+  "question": "What is the cloud storage service called?",
+  "answer": "Students should save their files to RidgeDrive."
+ },
+ {
+  "fact": "start_year",
+  "question": "Since when has the loan desk been serving students?",
+  "answer": "The laptop loan program was started in 2019."
+ },
+ {
+  "fact": "extension",
+  "question": "How do I reach the desk by phone?",
+  "answer": "Dial extension 4410."
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long is a reserved laptop held?",
+  "answer": "A reserved laptop is held at the desk for 24 hours."
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long do I have to pick up a reserved laptop?",
+  "answer": "A reserved laptop is held at the desk for 24 hours."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "Is the desk open on Saturdays?",
+  "answer": "On Saturdays the loan desk is open from 10 am to 2 pm."
+ },
+ {
+  "fact": "manager",
+  "question": "Who is in charge of the loan desk?",
+  "answer": "The manager of the loan desk is Dana Whitfield."
+ },
+ {
+  "fact": "student_id",
+  "question": "What must staff check before handing over a laptop?",
+  "answer": "A student must show a valid Ridge Card to borrow a laptop."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "What is the fee for a lost laptop?",
+  "answer": "The replacement cost for a lost laptop is $900."
+ },
+ {
+  "fact": "extension",
+  "question": "How do I reach the desk by phone?",
+  "answer": "The loan desk can be reached at extension 4410."
+ },
+ {
+  "fact": "damage_report",
+  "question": "How long do I have to report damage?",
+  "answer": "The deadline for reporting damage is 48 hours."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "How high can late fees go?",
+  "answer": "The maximum late fee for one loan is $75."
+ },
+ {
+  "fact": "replacement_cost",
+  "question": "How much do I pay if I lose a laptop?",
+  "answer": "A lost laptop costs the student $900."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "How high can late fees go?",
+  "answer": "Late fees are capped at $75."
+ },
+ {
+  "fact": "reminder",
+  "question": "When is the reminder email sent?",
+  "answer": "Students receive a reminder 2 days before the laptop is due."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Which office approves a semester loan?",
+  "answer": "A semester loan requires approval from the Financial Aid Office."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What are the opening hours on weekdays?",
+  "answer": "On weekdays the loan desk is open from 8 am to 6 pm."
+ },
+ {
+  "fact": "reminder",
+  "question": "How early is the reminder sent?",
+  "answer": "Students receive a reminder 2 days before the laptop is due."
+ },
+ {
+  "fact": "hold_time",
+  "question": "When is a reservation cancelled?",
+  "answer": "Reservations are held for 24 hours."
+ },
+ {
+  "fact": "portal",
+  "question": "What is the reservation portal called?",
+  "answer": "You reserve a laptop in the LoanPort portal."
+ },
+ {
+  "fact": "return_method",
+  "question": "Where do I return my laptop?",
+  "answer": "Laptops must be returned to the desk in person."
+ },
+ {
+  "fact": "wipe",
+  "question": "What happens to a laptop after it is returned?",
+  "answer": "After every return, the laptop is completely wiped."
+ },
+ {
+  "fact": "late_fee",
+  "question": "How much is the late fee per day?",
+  "answer": "Overdue laptops are charged $5 per day."
+ },
+ {
+  "fact": "late_fee",
+  "question": "How much is the late fee per day?",
+  "answer": "The late fee is $5 per day."
+ },
+ {
+  "fact": "renewal",
+  "question": "Can I renew my loan?",
+  "answer": "A loan can be renewed one time for an extra 7 days."
+ },
+ {
+  "fact": "accessories",
+  "question": "What is included with every loan?",
+  "answer": "The laptop comes with a charger and a sleeve."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "When is the loan desk open on weekdays?",
+  "answer": "On weekdays the loan desk is open from 8 am to 6 pm."
+ },
+ {
+  "fact": "renewal",
+  "question": "How many extra days does a renewal add?",
+  "answer": "One renewal is allowed, and it adds 7 days."
+ },
+ {
+  "fact": "wipe",
+  "question": "What happens to my files after I return a laptop?",
+  "answer": "After every return, the laptop is completely wiped."
+ },
+ {
+  "fact": "student_id",
+  "question": "What is the student ID called?",
+  "answer": "You need a valid Ridge Card."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops are in the loan program?",
+  "answer": "The loan desk owns 120 laptops."
+ },
+ {
+  "fact": "accessories",
+  "question": "What do I receive along with the laptop?",
+  "answer": "Every loan includes a charger and a sleeve."
+ },
+ {
+  "fact": "extension",
+  "question": "What extension do I dial for the loan desk?",
+  "answer": "The loan desk can be reached at extension 4410."
+ },
+ {
+  "fact": "manager",
+  "question": "Who approves policy exceptions?",
+  "answer": "The loan desk is managed by Dana Whitfield."
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long do I have to pick up a reserved laptop?",
+  "answer": "Reservations are held for 24 hours."
+ },
+ {
+  "fact": "student_id",
+  "question": "What do I need to show to borrow a laptop?",
+  "answer": "You need a valid Ridge Card."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Who approves semester loans?",
+  "answer": "A semester loan requires approval from the Financial Aid Office."
+ },
+ {
+  "fact": "damage_report",
+  "question": "How soon must damage be reported?",
+  "answer": "The deadline for reporting damage is 48 hours."
+ },
+ {
+  "fact": "sunday",
+  "question": "When is the loan desk closed?",
+  "answer": "No, the loan desk is closed on Sundays."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Who reviews requests for a semester loan?",
+  "answer": "A semester loan requires approval from the Financial Aid Office."
+ },
+ {
+  "fact": "manager",
+  "question": "Who is in charge of the loan desk?",
+  "answer": "The loan desk is managed by Dana Whitfield."
+ },
+ {
+  "fact": "return_method",
+  "question": "Can I leave the laptop in a drop box?",
+  "answer": "All returns have to be made in person at the loan desk."
+ },
+ {
+  "fact": "return_method",
+  "question": "How must laptops be returned?",
+  "answer": "All returns have to be made in person at the loan desk."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "What is the fee for a lost charger?",
+  "answer": "A lost charger costs the student $40."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "Is the desk open on Saturdays?",
+  "answer": "The Saturday hours are 10 am to 2 pm."
+ },
+ {
+  "fact": "location",
+  "question": "Where do I go to pick up a laptop?",
+  "answer": "It is located in room 114 of Hollis Library."
+ },
+ {
+  "fact": "model",
+  "question": "Which laptop will I receive?",
+  "answer": "All loan laptops are the Falcon 14 model."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should I save my files?",
+  "answer": "Files should be saved to RidgeDrive."
+ },
+ {
+  "fact": "portal",
+  "question": "What is the reservation portal called?",
+  "answer": "Laptops are reserved online through the LoanPort portal."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the most I can owe in late fees?",
+  "answer": "The maximum late fee for one loan is $75."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How long can I borrow a laptop?",
+  "answer": "A laptop can be borrowed for 14 days."
+ },
+ {
+  "fact": "wipe",
+  "question": "What do staff do with a returned laptop?",
+  "answer": "After every return, the laptop is completely wiped."
+ },
+ {
+  "fact": "sunday",
+  "question": "What are the Sunday hours of the loan desk?",
+  "answer": "No, the loan desk is closed on Sundays."
+ },
+ {
+  "fact": "technician",
+  "question": "Who handles laptop repairs?",
+  "answer": "Laptop repairs are handled by the technician, Marcus Oyelaran."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Who approves semester loans?",
+  "answer": "Semester loans must be approved by the Financial Aid Office."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "What time does the desk open on Saturdays?",
+  "answer": "On Saturdays the loan desk is open from 10 am to 2 pm."
+ },
+ {
+  "fact": "location",
+  "question": "Where do I go to pick up a laptop?",
+  "answer": "The Laptop Loan Desk is in room 114 of Hollis Library."
+ },
+ {
+  "fact": "renewal",
+  "question": "How many times can a loan be renewed?",
+  "answer": "One renewal is allowed, and it adds 7 days."
+ },
+ {
+  "fact": "extension",
+  "question": "What extension do I dial for the loan desk?",
+  "answer": "Dial extension 4410."
+ },
+ {
+  "fact": "limit",
+  "question": "What is the loan limit per student?",
+  "answer": "The limit is one laptop per student."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the maximum late fee?",
+  "answer": "The maximum late fee for one loan is $75."
+ },
+ {
+  "fact": "accessories",
+  "question": "What accessories come with the laptop?",
+  "answer": "Every loan includes a charger and a sleeve."
+ },
+ {
+  "fact": "limit",
+  "question": "Can I borrow two laptops?",
+  "answer": "The limit is one laptop per student."
+ },
+ {
+  "fact": "model",
+  "question": "What kind of laptops are in the loan program?",
+  "answer": "The loan desk lends Falcon 14 laptops."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What time is the desk open Monday through Friday?",
+  "answer": "On weekdays the loan desk is open from 8 am to 6 pm."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "How long until an overdue laptop is treated as lost?",
+  "answer": "An overdue laptop is considered lost after 30 days."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Who reviews requests for a semester loan?",
+  "answer": "Semester loans must be approved by the Financial Aid Office."
+ },
+ {
+  "fact": "sunday",
+  "question": "Is the loan desk open on Sundays?",
+  "answer": "The desk is closed every Sunday."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "What are the Saturday hours of the loan desk?",
+  "answer": "On Saturdays the loan desk is open from 10 am to 2 pm."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How many days does a standard loan last?",
+  "answer": "A laptop can be borrowed for 14 days."
+ },
+ {
+  "fact": "student_id",
+  "question": "What must staff check before handing over a laptop?",
+  "answer": "You need a valid Ridge Card."
+ },
+ {
+  "fact": "model",
+  "question": "What kind of laptops are in the loan program?",
+  "answer": "All loan laptops are the Falcon 14 model."
+ },
+ {
+  "fact": "limit",
+  "question": "Can I borrow two laptops?",
+  "answer": "Each student may borrow only one laptop at a time."
+ },
+ {
+  "fact": "accessories",
+  "question": "What accessories come with the laptop?",
+  "answer": "The laptop comes with a charger and a sleeve."
+ },
+ {
+  "fact": "technician",
+  "question": "Who repairs the laptops?",
+  "answer": "The repair technician is Marcus Oyelaran."
+ },
+ {
+  "fact": "manager",
+  "question": "Who approves policy exceptions?",
+  "answer": "The manager of the loan desk is Dana Whitfield."
+ },
+ {
+  "fact": "hold_time",
+  "question": "How long is a reserved laptop held?",
+  "answer": "Reservations are held for 24 hours."
+ },
+ {
+  "fact": "semester_loan",
+  "question": "Which office approves a semester loan?",
+  "answer": "Semester loans must be approved by the Financial Aid Office."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "When is the loan desk open on weekdays?",
+  "answer": "The weekday hours are 8 am to 6 pm."
+ },
+ {
+  "fact": "max_late_fee",
+  "question": "What is the maximum late fee?",
+  "answer": "Late fees are capped at $75."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "When does the desk mark a laptop as lost?",
+  "answer": "A laptop is declared lost when it is overdue by 30 days."
+ },
+ {
+  "fact": "start_year",
+  "question": "In what year was the loan program launched?",
+  "answer": "The loan program has been running since 2019."
+ },
+ {
+  "fact": "late_fee",
+  "question": "How much do I pay if I return a laptop late?",
+  "answer": "The late fee is $5 per day."
+ },
+ {
+  "fact": "manager",
+  "question": "Who manages the Laptop Loan Desk?",
+  "answer": "The loan desk is managed by Dana Whitfield."
+ },
+ {
+  "fact": "wipe",
+  "question": "Are returned laptops erased?",
+  "answer": "After every return, the laptop is completely wiped."
+ },
+ {
+  "fact": "saturday_hours",
+  "question": "When is the loan desk open on Saturdays?",
+  "answer": "The Saturday hours are 10 am to 2 pm."
+ },
+ {
+  "fact": "portal",
+  "question": "How do I reserve a laptop?",
+  "answer": "Laptops are reserved online through the LoanPort portal."
+ },
+ {
+  "fact": "manager",
+  "question": "Who is the manager of the loan desk?",
+  "answer": "The manager of the loan desk is Dana Whitfield."
+ },
+ {
+  "fact": "storage",
+  "question": "Where should I move my files before returning a laptop?",
+  "answer": "Students should save their files to RidgeDrive."
+ },
+ {
+  "fact": "limit",
+  "question": "How many laptops may a student have on loan?",
+  "answer": "Each student may borrow only one laptop at a time."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "When is a laptop declared lost?",
+  "answer": "An overdue laptop is considered lost after 30 days."
+ },
+ {
+  "fact": "accessories",
+  "question": "What do I receive along with the laptop?",
+  "answer": "The laptop comes with a charger and a sleeve."
+ },
+ {
+  "fact": "location",
+  "question": "Where is the Laptop Loan Desk located?",
+  "answer": "The Laptop Loan Desk is in room 114 of Hollis Library."
+ },
+ {
+  "fact": "technician",
+  "question": "Who is the repair technician?",
+  "answer": "Laptop repairs are handled by the technician, Marcus Oyelaran."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How big is the laptop fleet?",
+  "answer": "The loan desk owns 120 laptops."
+ },
+ {
+  "fact": "model",
+  "question": "What model are the loan laptops?",
+  "answer": "All loan laptops are the Falcon 14 model."
+ },
+ {
+  "fact": "portal",
+  "question": "Where do students make reservations?",
+  "answer": "You reserve a laptop in the LoanPort portal."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How big is the laptop fleet?",
+  "answer": "The loan program has a fleet of 120 laptops."
+ },
+ {
+  "fact": "hold_time",
+  "question": "When is a reservation cancelled?",
+  "answer": "A reserved laptop is held at the desk for 24 hours."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "When does the desk mark a laptop as lost?",
+  "answer": "An overdue laptop is considered lost after 30 days."
+ },
+ {
+  "fact": "return_method",
+  "question": "How do I return a laptop?",
+  "answer": "All returns have to be made in person at the loan desk."
+ },
+ {
+  "fact": "reminder",
+  "question": "When do students receive a reminder?",
+  "answer": "A reminder email is sent 2 days before the due date."
+ },
+ {
+  "fact": "return_method",
+  "question": "Can I leave the laptop in a drop box?",
+  "answer": "Laptops must be returned to the desk in person."
+ },
+ {
+  "fact": "wipe",
+  "question": "What happens to a laptop after it is returned?",
+  "answer": "All files on a returned laptop are wiped."
+ },
+ {
+  "fact": "accessories",
+  "question": "What does the loan kit contain?",
+  "answer": "The laptop comes with a charger and a sleeve."
+ },
+ {
+  "fact": "damage_report",
+  "question": "When do I have to report a damaged laptop?",
+  "answer": "Damage must be reported within 48 hours."
+ },
+ {
+  "fact": "limit",
+  "question": "How many laptops may a student have on loan?",
+  "answer": "The limit is one laptop per student."
+ },
+ {
+  "fact": "fleet_size",
+  "question": "How many laptops are in the loan program?",
+  "answer": "The loan program has a fleet of 120 laptops."
+ },
+ {
+  "fact": "model",
+  "question": "What model are the loan laptops?",
+  "answer": "The loan desk lends Falcon 14 laptops."
+ },
+ {
+  "fact": "sunday",
+  "question": "What are the Sunday hours of the loan desk?",
+  "answer": "The desk is closed every Sunday."
+ },
+ {
+  "fact": "wipe",
+  "question": "Are returned laptops erased?",
+  "answer": "All files on a returned laptop are wiped."
+ },
+ {
+  "fact": "reminder",
+  "question": "How early is the reminder sent?",
+  "answer": "A reminder email is sent 2 days before the due date."
+ },
+ {
+  "fact": "late_fee",
+  "question": "How much do I pay if I return a laptop late?",
+  "answer": "Overdue laptops are charged $5 per day."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What time is the desk open Monday through Friday?",
+  "answer": "The weekday hours are 8 am to 6 pm."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "When is a laptop declared lost?",
+  "answer": "A laptop is declared lost when it is overdue by 30 days."
+ },
+ {
+  "fact": "wipe",
+  "question": "What do staff do with a returned laptop?",
+  "answer": "All files on a returned laptop are wiped."
+ },
+ {
+  "fact": "charger_cost",
+  "question": "How much do I pay if I lose the charger?",
+  "answer": "A lost charger costs the student $40."
+ },
+ {
+  "fact": "hold_time",
+  "question": "What is the pickup window for a reservation?",
+  "answer": "Reservations are held for 24 hours."
+ },
+ {
+  "fact": "weekday_hours",
+  "question": "What are the opening hours on weekdays?",
+  "answer": "The weekday hours are 8 am to 6 pm."
+ },
+ {
+  "fact": "loan_period",
+  "question": "How long is the standard loan period?",
+  "answer": "The standard loan period is 14 days."
+ },
+ {
+  "fact": "declared_lost",
+  "question": "After how many days is an overdue laptop considered lost?",
+  "answer": "An overdue laptop is considered lost after 30 days."
+ },
+ {
+  "fact": "renewal",
+  "question": "How many extra days does a renewal add?",
+  "answer": "A loan can be renewed one time for an extra 7 days."
+ },
+ {
+  "fact": "portal",
+  "question": "What system is used to reserve laptops?",
+  "answer": "Laptops are reserved online through the LoanPort portal."
+ },
+ {
+  "fact": "late_fee",
+  "question": "What is the late fee for an overdue laptop?",
+  "answer": "The late fee is $5 per day."
+ },
+ {
+  "fact": "location",
+  "question": "Where can I find the loan desk?",
+  "answer": "The Laptop Loan Desk is in room 114 of Hollis Library."
+ }
+]
